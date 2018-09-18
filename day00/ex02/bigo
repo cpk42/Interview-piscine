@@ -1,0 +1,2 @@
+O(n / 2) time, binary search pivots at the halfway point of an array, therefore only half of the array is iterated through.
+O(n / 2) space, same as above.

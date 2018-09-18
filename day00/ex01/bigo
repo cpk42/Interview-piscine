@@ -1,0 +1,2 @@
+O(nlog(n) + n) time, space complexity of algorithm is nlogn + n due to initial count of list elements.
+O(1) space, size remains constant no matter the input.
