@@ -1,0 +1,2 @@
+O(n) time, must recursively loop through and print each element
+O(n) space, must recursively loop through and print each element

@@ -1,0 +1,5 @@
+O(n) time, worst case.
+O(log(n)) time, average case.
+O(1) time, best case.
+
+O(n) space.

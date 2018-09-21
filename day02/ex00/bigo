@@ -1,0 +1,2 @@
+O(n^2) time, worst case is O(n^2) because if all elements are groups of 1, it is a standard bubble sort.
+O(n) space, allocated array equal to size of linked list.

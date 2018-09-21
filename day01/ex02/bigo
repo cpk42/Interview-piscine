@@ -1,0 +1,2 @@
+O(n) time, each linked list element must be iterated through at O(1) speed
+O(n) space, uses all values given by linked list
