@@ -1,0 +1,2 @@
+O(nk) time, n = number of elements in array, k = largest string in dataset iterated.
+O(1) space.

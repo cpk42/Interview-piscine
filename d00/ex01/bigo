@@ -1,0 +1,2 @@
+O(n^2 * k) time.
+O(log(n)) space.

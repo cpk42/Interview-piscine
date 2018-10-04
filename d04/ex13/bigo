@@ -1,0 +1,2 @@
+O(32) time, will always check the sizeof unsigned int;
+O(1) space.

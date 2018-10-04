@@ -1,2 +1,0 @@
-O(n) time, hash table is O(1) access unless collisions occur in which iterating through a linked list is necessary.
-O(n) space, same as above.
